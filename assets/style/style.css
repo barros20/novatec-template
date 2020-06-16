@@ -1,0 +1,293 @@
+.bg-header{
+    background-color: #EDF2F2;
+    border-top: 5px solid #006486;
+    border-bottom: 5px solid #006486;
+    max-width: 1000px;
+    height: 90px;
+    margin-left: 170px;
+    margin: 0 auto;
+}
+
+.bg-logo{
+    height: 30px;
+    width: 120px;
+    background-image: url(../images/logo_novatec.gif);
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.pedidos{
+    float: right;
+    border: none;
+    background-color: #006486;
+    color: white;
+    height: 45px;
+    width: 110px;
+    background-image: url(../images/meuspedidos.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding-top: 25px;
+    font-size: 12px;
+    border-bottom-left-radius: 1000px;
+    padding-left: 20px;
+}
+
+.cadastros{
+    float: right;
+    border: none;
+    background-color: #006486;
+    color: white;
+    height: 45px;
+    width: 80px;
+    background-image: url(../images/meuspedidos.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding-top: 25px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+.duvidas{
+    float: right;
+    border: none;
+    background-color: #006486;
+    color: white;
+    height: 45px;
+    width: 80px;
+    background-image: url(../images/meuspedidos.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding-top: 25px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+.carrinho{
+    float: right;
+    border: none;
+    background-color: #006486;
+    color: white;
+    height: 45px;
+    width: 80px;
+    background-image: url(../images/meuspedidos.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding-top: 25px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+.home{
+    margin-top: 25px;
+    margin-left: 120px;
+    border: none;
+    background-color: #006486;
+    color: white;
+    height: 20px;
+    width: 50px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.mangas{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 60px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.catalogos{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 60px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.professores{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 80px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.sejaumautor{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 90px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.blog{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 50px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.centrotreinamento{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #FF6F7B;
+    color: black;
+    height: 20px;
+    width: 120px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.quemsomos{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 90px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.faleconosco{
+    margin-top: 25px;
+    margin-left: 10px;
+    border: none;
+    background-color: #C3DFE7;
+    color: black;
+    height: 20px;
+    width: 90px;
+    border-top-right-radius: 70px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.bg-busca{
+        background-color: #EDF2F2;
+        max-width: 1000px;
+        height: 60px;
+        margin-left: 170px;
+        margin-top: 7px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 auto;
+        margin-top: 5px;
+}
+
+.busca input{
+    width: 600px;
+    height: 25px;
+    margin-top: 13px;
+    margin-left: 150px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    border: 2px solid #C3C3C3;
+    color: #C3C3C3;
+}
+
+.buttonbuscar{
+    height: 32px;
+    width: 80px;
+    margin-top: 13px;
+    border: 1px solid;
+    margin-left: 4px;
+    font-size: 15px;
+    background-color: #027399;
+    color: white;
+    font-weight: bold;
+}
+
+.aside{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.bg-asideleft{
+    margin-left: 170px;
+    max-width: 140px;
+    margin-top: 5px;
+    height: 743 px;
+    background-color: #E0E9E9;
+    margin-left: 0px;
+}
+
+.bg-asideleft h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    line-height: 2;
+    background-color: #027399;
+    margin-bottom: 4px;
+}
+
+.bg-asideleft ul li{
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+    padding-top: px;
+
+}
+
+.bg-asideright{
+    margin-left: 170px;
+    max-width: 140px;
+    margin-top: 5px;
+    height: 743 px;
+    background-color: #E0E9E9;
+    margin-left: 719px;
+}
+
+.bg-asideright h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: white;
+    line-height: 2;
+    background-color: #027399;
+    margin-bottom: 4px;
+}
+
+.bg-asideright ul li{
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+    padding-top: px;
+
+}
